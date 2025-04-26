@@ -2,3 +2,7 @@ git add .
 git commit -m "Remove node_modules and add .gitignore"
 git branch -M main
 git push -u origin main
+See new files	git status
+Add files	git add .
+Commit changes	git commit -m "your message"
+Push to GitHub	git push origin main
