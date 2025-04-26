@@ -1,0 +1,4 @@
+git add .
+git commit -m "Remove node_modules and add .gitignore"
+git branch -M main
+git push -u origin main
