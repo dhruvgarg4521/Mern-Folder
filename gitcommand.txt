@@ -6,3 +6,7 @@ See new files	git status
 Add files	git add .
 Commit changes	git commit -m "your message"
 Push to GitHub	git push origin main
+
+/*mongodb username : dhruv , password : dhruv
+mongodb+srv://dhruv:<db_password>@mern-blog.cqlr0cq.mongodb.net/?retryWrites=true&w=majority&appName=mern-blog
+*/
