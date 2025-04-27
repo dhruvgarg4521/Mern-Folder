@@ -1,0 +1,6 @@
+Client (Insomnia) 
+--> Express Server (index.js)
+--> /api/auth/signup 
+--> auth.route.js 
+--> auth.controller.js
+--> Talks to MongoDB through Mongoose (user.model.js)
