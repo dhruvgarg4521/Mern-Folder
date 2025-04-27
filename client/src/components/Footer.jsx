@@ -55,8 +55,12 @@ export default function FooterCom() {
             <div>
               <Footer.Title title='Legal' />
               <Footer.LinkGroup col>
-                <Footer.Link href='#'>Privacy Policy</Footer.Link>
-                <Footer.Link href='#'>Terms &amp; Conditions</Footer.Link>
+                <Footer.Link href='https://github.com/dhruvgarg4521/Mern-Folder/blob/main/Privacy_Policy.txt'
+                  target='_blank'
+                  rel='noopener noreferrer'>Privacy Policy</Footer.Link>
+                <Footer.Link href='https://github.com/dhruvgarg4521/Mern-Folder/blob/main/Terms_%26_Conditions.txt'
+                  target='_blank'
+                  rel='noopener noreferrer'>Terms &amp; Conditions</Footer.Link>
               </Footer.LinkGroup>
             </div>
           </div>
